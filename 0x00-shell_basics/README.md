@@ -1,1 +1,2 @@
-gffhghvb bbn 
+#!/bin/bash
+ntaie 
